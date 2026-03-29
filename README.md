@@ -1,5 +1,3 @@
-# digital-literacy
-
 # digital-literacy-project
 ## Task 1: Digital Literacy Infographic
 
