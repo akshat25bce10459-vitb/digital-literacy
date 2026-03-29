@@ -8,31 +8,31 @@
 
 Dear Professor Sharma,
 
-I hope this email finds you well. I am Harsh, a first-year B.Tech student in the Computer Science and Engineering(AI&ML) branch (Registration No. 25BAI111882), currently enrolled in your course CSE2001 – Data Structures and Algorithms.
+I hope this email finds you well. I am Akshat, a first-year B.Tech student in the Computer Science and Engineering core branch (Registration No. 25BCE10459), currently enrolled in your course CSE2001 – Data Structures and Algorithms.
 
-I am writing to respectfully request a two-day extension for the assignment submission due on 15 April 2025. Over the past week, I experienced a health issue that significantly affected my ability to study and complete the work to the standard I aim for. I have attached a medical certificate for your reference.
+I am writing to respectfully request a two-day extension for the assignment submission due on 15 April 2026. Over the past week, I experienced a health issue that significantly affected my ability to study and complete the work to the standard I aim for. I have attached a medical certificate for your reference.
 
-I have already completed approximately 70% of the assignment and am confident I can submit quality work by 17 April 2025 if the extension is granted.
+I have already completed approximately 70% of the assignment and am confident I can submit quality work by 17 April 2026 if the extension is granted.
 
 I sincerely apologise for any inconvenience this may cause and I am grateful for your understanding. Please let me know if this request is possible or if there is an alternative arrangement I can make.
 
 Thanking you,
 
-Harsh 
+Akshat Singh
 B.Tech CSE – First Year  
-Registration No. 25BAI11182 
+Registration No. 25BCE10459 
 VIT Bhopal University  
-Email: harsh.25bai11182@vitbhopal.ac.in
+Email: akshat.25bce10459@vitbhopal.ac.in
 
 ---
 
 ## Email 2 – Expressing Interest in Summer Internship
 
-**Subject:** Application for Summer Internship Opportunity – B.Tech CSE(AI&ML) Student, VIT Bhopal
+**Subject:** Application for Summer Internship Opportunity – B.Tech CSE core Student, VIT Bhopal
 
 Dear Ms. Priya Mehta,
 
-I am writing to express my keen interest in a summer internship opportunity at TechVentures Pvt. Ltd. I am Harsh, a first-year B.Tech student specialising in Computer Science and Engineering(AI&ML) at VIT Bhopal University (Batch of 2029).
+I am writing to express my keen interest in a summer internship opportunity at TechVentures Pvt. Ltd. I am Akshat , a first-year B.Tech student specialising in Computer Science and Engineering at VIT Bhopal University (Batch of 2029).
 
 I came across your company's profile on LinkedIn and was genuinely impressed by the innovative projects your team has been working on in the field of software development and cloud computing. I am eager to gain practical exposure in a professional environment and believe an internship at TechVentures would be an excellent opportunity to apply my academic knowledge to real-world challenges.
 
@@ -44,9 +44,9 @@ Thank you for considering my application. I look forward to hearing from you.
 
 Yours sincerely,
 
-Harsh
-B.Tech CSE(AI&ML) – First Year (2025–2029)  
+Akshat Singh
+B.Tech CSE core – First Year (2025–2029)  
 VIT Bhopal University  
-Email: harsh.25bai11182@vitbhopal.ac.in
-LinkedIn: linkedin.com/in/harsh-19b565383
-GitHub: github.com/harsh25bai11182
+Email: akshat.25bce10459@vitbhopal.ac.in
+LinkedIn: linkedin.com/in/akshat-singh-30b055380
+GitHub: github.com/akshat25bce10459-vitb
